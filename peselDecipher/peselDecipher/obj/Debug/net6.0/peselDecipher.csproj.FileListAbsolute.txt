@@ -1,0 +1,14 @@
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\bin\Debug\net6.0\peselDecipher.exe
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\bin\Debug\net6.0\peselDecipher.deps.json
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\bin\Debug\net6.0\peselDecipher.runtimeconfig.json
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\bin\Debug\net6.0\peselDecipher.dll
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\bin\Debug\net6.0\peselDecipher.pdb
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.AssemblyInfoInputs.cache
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.AssemblyInfo.cs
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.csproj.CoreCompileInputs.cache
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.dll
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\refint\peselDecipher.dll
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.pdb
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\peselDecipher.genruntimeconfig.cache
+C:\Users\MasterUwU\source\repos\peselDecipher\peselDecipher\obj\Debug\net6.0\ref\peselDecipher.dll
